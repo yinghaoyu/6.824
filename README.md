@@ -15,4 +15,4 @@ Forked from `git://g.csail.mit.edu/6.824-golabs-2022`
 
 ## Reference
 
-Thanks to [@OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) [@Sorosliu1029](https://github.com/Sorosliu1029/6.824)
+Thanks to [Raft Visual Tutorial](http://thesecretlivesofdata.com/raft/) [@OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) [@Sorosliu1029](https://github.com/Sorosliu1029/6.824)
